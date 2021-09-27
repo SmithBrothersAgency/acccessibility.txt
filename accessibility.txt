@@ -1,0 +1,47 @@
+** ACCESSIBILITY.txt
+** LAST EDITED:  09/27/2021
+** EDITED BY: G. Jason Head
+** SCANNED WITH: axe Devtools 4.3.3
+** LAST SCAN: 09/27/2021
+** NEXT SCHEDULED SCAN:  12/2021
+
+This website (title) has been designed and developed to meet (or exceed) WCAG 2.1 Guidelines.  
+
+To our best ability, all issues marked as "Critical", "Serious", "Moderate" and "Minor" have been addressed.  
+Issues in each category that are unable to be addressed and explanatons why:
+
+***********
+** CRITICAL
+***********
+
+No Outstanding Issues.
+
+**********
+** SERIOUS
+**********
+
+No Outstanding Issues.
+
+***********
+** MODERATE
+***********
+
+>> https://fullurl.com/example
+"Some page content is not contained by landmarks"
+This item is unable to be addressed as it is code from a third party that we are unable to access.
+
+********
+** MINOR
+********
+
+No Outstanding Issues.
+
+***********************************
+** ITEMS THAT REQUIRE MANUAL REVIEW
+***********************************
+
+These following issues required a manual review and have been resolved:
+
+>> https://fullurl.com/
+Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds
+Element Source: <div class="pathways-cell__label">Premier<br>Shakers</div>
